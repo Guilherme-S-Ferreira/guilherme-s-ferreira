@@ -1,0 +1,55 @@
+<svg width="100%" viewBox="0 0 680 280" role="img" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117"/>
+      <stop offset="50%" style="stop-color:#161B22"/>
+      <stop offset="100%" style="stop-color:#1a0a2e"/>
+    </linearGradient>
+    <linearGradient id="lineAccent" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#00BFFF"/>
+      <stop offset="100%" style="stop-color:#6A0DAD"/>
+    </linearGradient>
+  </defs>
+  <rect width="680" height="280" fill="url(#bg)" rx="12"/>
+  <line x1="0" y1="70" x2="680" y2="70" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+  <line x1="0" y1="140" x2="680" y2="140" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+  <line x1="0" y1="210" x2="680" y2="210" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+  <line x1="170" y1="0" x2="170" y2="280" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+  <line x1="340" y1="0" x2="340" y2="280" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+  <line x1="510" y1="0" x2="510" y2="280" stroke="#ffffff" stroke-opacity="0.03" stroke-width="1"/>
+  <circle cx="170" cy="70" r="2" fill="#00BFFF" fill-opacity="0.3"/>
+  <circle cx="340" cy="140" r="2" fill="#6A0DAD" fill-opacity="0.4"/>
+  <circle cx="510" cy="70" r="2" fill="#00BFFF" fill-opacity="0.3"/>
+  <circle cx="170" cy="210" r="2" fill="#6A0DAD" fill-opacity="0.3"/>
+  <circle cx="510" cy="210" r="2" fill="#00BFFF" fill-opacity="0.2"/>
+  <rect x="48" y="60" width="3" height="120" fill="url(#lineAccent)" rx="2"/>
+  <text x="68" y="108" font-family="'Courier New', monospace" font-size="38" font-weight="700" fill="#00BFFF">Guilherme</text>
+  <text x="68" y="152" font-family="'Courier New', monospace" font-size="38" font-weight="700" fill="#8B5CF6">Ferreira</text>
+  <text x="70" y="178" font-family="'Courier New', monospace" font-size="14" fill="#8B9DB0" letter-spacing="1">Desenvolvedor Back End</text>
+  <rect x="390" y="55" width="250" height="155" fill="#0D1117" fill-opacity="0.8" rx="8" stroke="#1E3A5F" stroke-width="1"/>
+  <circle cx="410" cy="74" r="5" fill="#FF5F56"/>
+  <circle cx="426" cy="74" r="5" fill="#FFBD2E"/>
+  <circle cx="442" cy="74" r="5" fill="#27C93F"/>
+  <text x="408" y="100" font-family="'Courier New', monospace" font-size="12" fill="#569CD6">const </text>
+  <text x="451" y="100" font-family="'Courier New', monospace" font-size="12" fill="#9CDCFE">dev</text>
+  <text x="474" y="100" font-family="'Courier New', monospace" font-size="12" fill="#D4D4D4"> = {</text>
+  <text x="418" y="118" font-family="'Courier New', monospace" font-size="12" fill="#9CDCFE">  name</text>
+  <text x="455" y="118" font-family="'Courier New', monospace" font-size="12" fill="#D4D4D4">: </text>
+  <text x="465" y="118" font-family="'Courier New', monospace" font-size="12" fill="#CE9178">"Guilherme"</text>
+  <text x="545" y="118" font-family="'Courier New', monospace" font-size="12" fill="#D4D4D4">,</text>
+  <text x="418" y="136" font-family="'Courier New', monospace" font-size="12" fill="#9CDCFE">  role</text>
+  <text x="455" y="136" font-family="'Courier New', monospace" font-size="12" fill="#D4D4D4">: </text>
+  <text x="465" y="136" font-family="'Courier New', monospace" font-size="12" fill="#CE9178">"Back End"</text>
+  <text x="537" y="136" font-family="'Courier New', monospace" font-size="12" fill="#D4D4D4">,</text>
+  <text x="418" y="154" font-family="'Courier New', monospace" font-size="12" fill="#9CDCFE">  city</text>
+  <text x="455" y="154" font-family="'Courier New', monospace" font-size="12" fill="#D4D4D4">: </text>
+  <text x="465" y="154" font-family="'Courier New', monospace" font-size="12" fill="#CE9178">"Goiânia"</text>
+  <text x="530" y="154" font-family="'Courier New', monospace" font-size="12" fill="#D4D4D4">,</text>
+  <text x="418" y="172" font-family="'Courier New', monospace" font-size="12" fill="#9CDCFE">  status</text>
+  <text x="463" y="172" font-family="'Courier New', monospace" font-size="12" fill="#D4D4D4">: </text>
+  <text x="473" y="172" font-family="'Courier New', monospace" font-size="12" fill="#CE9178">"open"</text>
+  <text x="408" y="190" font-family="'Courier New', monospace" font-size="12" fill="#D4D4D4">}</text>
+  <rect x="408" y="196" width="8" height="14" fill="#00BFFF" fill-opacity="0.8" rx="1"/>
+  <path d="M0 255 Q170 235 340 255 Q510 275 680 255 L680 280 L0 280 Z" fill="#00BFFF" fill-opacity="0.06"/>
+  <path d="M0 265 Q170 248 340 265 Q510 282 680 265 L680 280 L0 280 Z" fill="#6A0DAD" fill-opacity="0.08"/>
+</svg>
